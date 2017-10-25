@@ -1,0 +1,17 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+
+.content{
+    width: 970px;
+    margin: 0  auto;
+    height: 400px;
+    background-color:green;  
+}
+
+img {
+    width: 100px;
+    /* height: 100px; */
+}
